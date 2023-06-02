@@ -1,0 +1,16 @@
+{
+  "name": "theta-fueling",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile"
+  },
+  "author": "Aler Denisov",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts": "^4.9.0",
+    "hardhat": "^2.14.1"
+  }
+}
